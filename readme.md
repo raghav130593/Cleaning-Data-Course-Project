@@ -8,7 +8,7 @@ The steps taken in the run_analysis.R script to achieve this goal are as follows
 
 - Load the libraries **reshape2** and **dplyr** as their functions would be used
 - Load all the data sets relevant to the train and test data sets.
-  * Xtrain, Xtest, Ytrain, Ytest, subjecttrain, subjecttest, feautures, activitylabels
+  * Xtrain, Xtest, Ytrain, Ytest, subjecttrain, subjecttest, features, activitylabels
 - Bind the subjects and activities of test and train data sets to their respective main data sets
 - Using features which contains the variable names, name both the train and the test data set
 - Merge both the train and test sets using rbind
