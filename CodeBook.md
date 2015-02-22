@@ -16,12 +16,12 @@ I made use of the reshape2 library package to reshape and create a **wide** form
 68 variables with 180 observations
 
 <table style="width:100%">
-<th>
-<td>Column Number</td>
-<td>Column Name</td>
-<td>Data Type</td>
-<td>Description</td>
-</th> 
+<tr>
+<th>Column Number</th>
+<th>Column Name</th>
+<th>Data Type</th>
+<th>Description</th>
+</tr> 
 <tr>
 <td>1</td>
 <td>subject</td>
