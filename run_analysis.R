@@ -65,4 +65,3 @@ tidy<-dcast(melted_set,subject+activity~variable,mean)
 
 #Write the data frame into txt file
 write.table(tidy,file="tidy_data.txt",row.names=FALSE)
-write.table(tidy,file="tidy_data.txt",row.names=FALSE)
