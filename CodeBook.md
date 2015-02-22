@@ -35,397 +35,397 @@ I made use of the reshape2 library package to reshape and create a **wide** form
 <td>Specifies the activities that the subject performed</td>
 </tr>
 <tr>
-<td>3<td>
+<td>3</td>
 <td>tBodyAcc-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>4<td>
+<td>4</td>
 <td>tBodyAcc-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>5<td>
+<td>5</td>
 <td>tBodyAcc-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>6<td>
+<td>6</td>
 <td>tGravityAcc-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer gravity signal measured along the X axis</td>
 </tr>
 <tr>
-<td>7<td>
+<td>7</td>
 <td>tGravityAcc-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer gravity signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>8<td>
+<td>8</td>
 <td>tGravityAcc-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer gravity signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>9<td>
+<td>9</td>
 <td>tBodyAccJerk-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body jerk signal measured along the X axis</td>
 </tr>
 <tr>
-<td>10<td>
+<td>10</td>
 <td>tBodyAccJerk-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body jerk signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>11<td>
+<td>11</td>
 <td>tBodyAccJerk-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body jerk signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>12<td>
+<td>12</td>
 <td>tBodyGyro-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>13<td>
+<td>13</td>
 <td>tBodyGyro-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>14<td>
+<td>14</td>
 <td>tBodyGyro-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>15<td>
+<td>15</td>
 <td>tBodyGyroJerk-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body jerk signal measured along the X axis</td>
 </tr>
 <tr>
-<td>16<td>
+<td>16</td>
 <td>tBodyGyroJerk-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body jerk signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>17<td>
+<td>17</td>
 <td>tBodyGyroJerk-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body jerk signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>18<td>
+<td>18</td>
 <td>tBodyAccMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer Body acceleration Mag signal measured</td>
 </tr>
 <tr>
-<td>19<td>
+<td>19</td>
 <td>tGravityAccMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer gravity acceleration Mag signal measured</td>
 </tr>
 <tr>
-<td>20<td>
+<td>20</td>
 <td>tBodyAccJerkMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the accelerometer body jerk acceleration Mag signal measured</td>
 </tr>
 <tr>
-<td>21<td>
+<td>21</td>
 <td>tBodyGyroMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body angular velocity Mag signal measured</td>
 </tr>
 <tr>
-<td>22<td>
+<td>22</td>
 <td>tBodyGyroJerkMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the gyroscope body jerk angular velocity Mag signal measured</td>
 </tr>
 <tr>
-<td>23<td>
+<td>23</td>
 <td>fBodyAcc-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>24<td>
+<td>24</td>
 <td>fBodyAcc-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>25<td>
+<td>25</td>
 <td>fBodyAcc-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>26<td>
+<td>26</td>
 <td>fBodyAccJerk-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer body jerk signal measured along the X axis</td>
 </tr>
 <tr>
-<td>27<td>
+<td>27</td>
 <td>fBodyAccJerk-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer body jerk signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>28<td>
+<td>28</td>
 <td>fBodyAccJerk-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer body jerk signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>29<td>
+<td>29</td>
 <td>fBodyGyro-std()-X</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed gyroscope body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>30<td>
+<td>30</td>
 <td>fBodyGyro-std()-Y</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed gyroscope body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>31<td>
+<td>31</td>
 <td>fBodyGyro-std()-Z</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed gyroscope body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>32<td>
+<td>32</td>
 <td>fBodyAccMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer Mag body signal measured</td>
 </tr>
 <tr>
-<td>33<td>
+<td>33</td>
 <td>fBodyAccJerkMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed accelerometer Mag body jerk signal measured</td>
 </tr>
 <tr>
-<td>34<td>
+<td>34</td>
 <td>fBodyGyroMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed gyroscope Mag body signal measured</td>
 </tr>
 <tr>
-<td>35<td>
+<td>35</td>
 <td>fBodyGyroJerkMag-std()</td>
 <td>numeric</td>
 <td>The standard deviation of the fast fourier transformed gyroscope Mag body jerk signal measured</td>
 </tr>
 <tr>
-<td>36<td>
+<td>36</td>
 <td>tBodyAcc-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>37<td>
+<td>37</td>
 <td>tBodyAcc-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>38<td>
+<td>38</td>
 <td>tBodyAcc-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>39<td>
+<td>39</td>
 <td>tGravityAcc-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the accelerometer gravity signal measured along the X axis</td>
 </tr>
 <tr>
-<td>40<td>
+<td>40</td>
 <td>tGravityAcc-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the accelerometer gravity signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>41<td>
+<td>41</td>
 <td>tGravityAcc-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the accelerometer gravity signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>42<td>
+<td>42</td>
 <td>tBodyAccJerk-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body jerk signal measured along the X axis</td>
 </tr>
 <tr>
-<td>43<td>
+<td>43</td>
 <td>tBodyAccJerk-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body jerk signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>44<td>
+<td>44</td>
 <td>tBodyAccJerk-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body jerk signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>45<td>
+<td>45</td>
 <td>tBodyGyro-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>46<td>
+<td>46</td>
 <td>tBodyGyro-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>47<td>
+<td>47</td>
 <td>tBodyGyro-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>48<td>
+<td>48</td>
 <td>tBodyGyroJerk-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body jerk signal measured along the X axis</td>
 </tr>
 <tr>
-<td>49<td>
+<td>49</td>
 <td>tBodyGyroJerk-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body jerk signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>50<td>
+<td>50</td>
 <td>tBodyGyroJerk-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body jerk signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>51<td>
+<td>51</td>
 <td>tBodyAccMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the accelerometer Body acceleration Mag signal measured</td>
 </tr>
 <tr>
-<td>52<td>
+<td>52</td>
 <td>tGravityAccMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the accelerometer gravity acceleration Mag signal measured</td>
 </tr>
 <tr>
-<td>53<td>
+<td>53</td>
 <td>tBodyAccJerkMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the accelerometer body jerk acceleration Mag signal measured</td>
 </tr>
 <tr>
-<td>54<td>
+<td>54</td>
 <td>tBodyGyroMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body angular velocity Mag signal measured</td>
 </tr>
 <tr>
-<td>55<td>
+<td>55</td>
 <td>tBodyGyroJerkMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the gyroscope body jerk angular velocity Mag signal measured</td>
 </tr>
 <tr>
-<td>56<td>
+<td>56</td>
 <td>fBodyAcc-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>57<td>
+<td>57</td>
 <td>fBodyAcc-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>58<td>
+<td>58</td>
 <td>fBodyAcc-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>59<td>
+<td>59</td>
 <td>fBodyAccJerk-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer body jerk signal measured along the X axis</td>
 </tr>
 <tr>
-<td>60<td>
+<td>60</td>
 <td>fBodyAccJerk-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer body jerk signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>61<td>
+<td>61</td>
 <td>fBodyAccJerk-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer body jerk signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>62<td>
+<td>62</td>
 <td>fBodyGyro-mean()-X</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed gyroscope body signal measured along the X axis</td>
 </tr>
 <tr>
-<td>63<td>
+<td>63</td>
 <td>fBodyGyro-mean()-Y</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed gyroscope body signal measured along the Y axis</td>
 </tr>
 <tr>
-<td>64<td>
+<td>64</td>
 <td>fBodyGyro-mean()-Z</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed gyroscope body signal measured along the Z axis</td>
 </tr>
 <tr>
-<td>65<td>
+<td>65</td>
 <td>fBodyAccMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer Mag body signal measured</td>
 </tr>
 <tr>
-<td>66<td>
+<td>66</td>
 <td>fBodyAccJerkMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed accelerometer Mag body jerk signal measured</td>
 </tr>
 <tr>
-<td>67<td>
+<td>67</td>
 <td>fBodyGyroMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed gyroscope Mag body signal measured</td>
 </tr>
 <tr>
-<td>68<td>
+<td>68</td>
 <td>fBodyGyroJerkMag-mean()</td>
 <td>numeric</td>
 <td>The mean of the fast fourier transformed gyroscope Mag body jerk signal measured</td>
